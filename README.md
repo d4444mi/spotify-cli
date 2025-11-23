@@ -1,4 +1,4 @@
-## spotify-cli
+# spotify-cli
 
 `spotify-cli` is a Python script for downloading Spotify tracks in MP3 format from YouTube.
 
@@ -15,7 +15,7 @@ It performs the following actions:
 4. Uses ffmpeg for conversion
 
 ---
-# Installation
+## Installation
 To use this script, you need to install [`ffmpeg`][(https://github.com/yt-dlp/yt-dlp](https://www.ffmpeg.org/download.html) and place the [`ffmpeg`][(https://github.com/yt-dlp/yt-dlp](https://www.ffmpeg.org/download.html) folder next to the script.
 You also need to install the following modules:
 ```bash

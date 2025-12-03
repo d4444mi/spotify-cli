@@ -2,7 +2,7 @@
 
 `spotify-cli` is a Python script for downloading Spotify tracks in MP3 format from YouTube.
 
-Currently, only individual tracks are supported (playlists and albums are not supported yet).
+Currently, only individual tracks are supported.
 
 It performs the following actions:
 
